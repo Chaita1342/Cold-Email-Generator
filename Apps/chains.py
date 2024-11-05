@@ -60,4 +60,4 @@ class Chain:
         return res.content
 
 if __name__ == "__main__":
-    print(os.getenv("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"))
+    print(os.getenv("YourAPIKey"))
